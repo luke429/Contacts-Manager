@@ -1,0 +1,7 @@
+Change database connection string in appsettings.json to your server
+
+Open Package Manager Console and enter following commands:
+
+add-migration Initial
+update-database
+
